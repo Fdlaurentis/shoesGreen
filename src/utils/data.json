@@ -1,0 +1,38 @@
+{
+    "product": [
+        {
+            "id": 0,
+            "name": "Tatum 2",
+            "description": "Zapatos de basket",
+            "color": "Rosa",
+            "quantity": 1,
+            "size": [10.5],
+            "price": 150,
+            "images": [
+                "R2yjgSc/Tatum-1.jpg",
+                "LQcfsCL/Tatum-2.jpg",
+                "b634PhG/Tatum-3.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Inmortality 4",
+            "description": "Zapatos de basket",
+            "color": "Blanco",
+            "quantity": 1,
+            "size": [10],
+            "price": 130,
+            "images": [""]
+        },
+        {
+            "id": 2,
+            "name": "Inmortality 4",
+            "description": "Zapatos de basket",
+            "color": "Morado",
+            "quantity": 1,
+            "size": [10.5],
+            "price": 130,
+            "images": [""]
+        }
+    ]
+}

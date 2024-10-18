@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
+
+header {
+    width: 95vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo > img {
+    width: 150px;
+}
+
+.navBar {
+    list-style: none;
+    display: flex;
+    gap: 1in;
+    margin-right: 0.2in;
+}
+
+.navBar > li {
+    font-family: 'Jaro';
+    font-size: 20px;
+}
+
+li:hover {
+    cursor: pointer;
+}
